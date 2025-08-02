@@ -24,38 +24,37 @@
   - TODO: LIST IN OWEN'S EMAIL
 - **Eagle Project**: Begin project proposal documentation
 - **Communication**: Complete requirements 1-3 (speeches and presentations)
+- **Cooking**: Complete meal planning requirements (Req 4-5)
+- **Citizenship in Society**: Confirm time and requirements covered for Citizenship in Society class
 
 #### Week 2 (Aug 8-15)
-- **Cooking**: Complete meal planning requirements (Req 4-5)
 - **Family Life**: Continue daily tracking, complete family meeting planning (Req 4)
-- **Eagle Project**: Submit project proposal for approval
 - **Emergency Preparedness**: Study first aid and emergency procedures (Req 1-3)
+- **Eagle Project**: Submit project proposal for approval
+- **Citizenship in Community**: Identify community service opportunities (Req 3)
+- **Citizenship in Nation**: Research government structure (Req 2-3)
 
 ### Phase 2: Foundation Building (August 16-31, 2025)
 
 #### Week 3 (Aug 16-22)
-- **Citizenship in Community**: Identify community service opportunities (Req 3)
-- **Citizenship in Nation**: Research government structure (Req 2-3)
 - **Communication**: Complete written communication requirements (Req 4-6)
-- **Cooking**: Plan and execute outdoor cooking (Req 6-7)
+- **Citizenship in Nation**: Attend government meeting (Req 4)
+- **Citizenship in Community**: Complete community service hours (Req 3)
 
 #### Week 4 (Aug 23-31)
-- **Emergency Preparedness**: Complete emergency kit and plan (Req 8-9)
-- **Citizenship in Society**: Research current events and social issues (Req 1-2)
+- **Cooking**: Plan and execute outdoor cooking (Req 6-7)
 - **Cooking**: Complete nutrition and food safety requirements (Req 1-3)
+- **Cooking**: Complete all remaining cooking requirements
+- **Emergency Preparedness**: Complete emergency kit and plan (Req 8-9)
+- **Emergency Preparedness**: Practice emergency scenarios (Req 4-7)
 
 ### Phase 3: Merit Badge Completion (September 1-30, 2025)
 
 #### Week 5-6 (Sep 1-14)
-- **Citizenship in Community**: Complete community service hours (Req 3)
-- **Citizenship in Nation**: Attend government meeting (Req 4)
-- **Emergency Preparedness**: Practice emergency scenarios (Req 4-7)
 - **Communication**: Final presentations and demonstrations
+- **Eagle Project**: Execute approved project (pending approval)
 
 #### Week 7-8 (Sep 15-30)
-- **Eagle Project**: Execute approved project (pending approval)
-- **Citizenship in Society**: Complete social issue research and presentation (Req 3-5)
-- **Cooking**: Complete all remaining cooking requirements
 - **Merit Badge Reviews**: Schedule and complete all merit badge conferences
 
 ### Phase 4: Final Push (October 1-15, 2025)
