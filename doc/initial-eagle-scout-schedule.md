@@ -20,7 +20,7 @@
 #### Week 1 (Aug 1-7)
 - **Family Life**: Begin 90-day family activity tracking (Requirement 1)
 - **Eagle Project**: Finalize project concept and beneficiary organization
-  - Measure Grimes Volleyball pit
+  X - Measure Grimes Volleyball pit
   - TODO: LIST IN OWEN'S EMAIL
 - **Eagle Project**: Begin project proposal documentation
 - **Communication**: Complete requirements 1-3 (speeches and presentations)
@@ -136,42 +136,6 @@
 - **Buffer time:** 74 days until 18th birthday
 
 ---
-
-## Gantt Chart (Text Format)
-
-```
-Merit Badge/Activity    Aug 1-15  Aug 16-31  Sep 1-15  Sep 16-30  Oct 1-15
-═══════════════════════════════════════════════════════════════════════════
-Family Life            ████████████████████████████████████████████████████
-Eagle Project          ████████  ████████   ████████  ████████   ████████
-Communication          ████████  ████████   ████████  
-Cooking                ████████  ████████   ████████  
-Emergency Prep         ████████  ████████   ████████  
-Citizenship Community           ████████   ████████  ████████   
-Citizenship Nation              ████████   ████████  ████████   
-Citizenship Society                        ████████  ████████   ████████
-Board of Review                                                 ████████
-```
-
-## Gantt Chart (Calendar Format)
-
-| Activity | Aug 1-7 | Aug 8-14 | Aug 15-21 | Aug 22-28 | Aug 29-Sep 4 | Sep 5-11 | Sep 12-18 | Sep 19-25 | Sep 26-Oct 2 | Oct 3-9 | Oct 10-15 |
-|----------|---------|----------|-----------|-----------|-------------|----------|-----------|-----------|-------------|---------|-----------|
-| **Family Life** | ●●●●●●● | ●●●●●●● | ●●●●●●● | ●●●●●●● | ●●●●●●● | ●●●●●●● | ●●●●●●● | ●●●●●●● | ●●●●●●● | ●●●●●●● | ●●●●●●● |
-| **Eagle Project** | ◐◐◐◐◐◐◐ | ◐◐◐◐◐◐◐ | ●●●●●●● | ●●●●●●● | ●●●●●●● | ●●●●●●● | ●●●●●●● | ●●●●●●● | ●●●●●●● | ●●●●●●● | ●●●●●●● |
-| **Communication** | ●●●●●●● | ●●●●●●● | ●●●●●●● | ●●●●●●● | ◑◑◑◑◑◑◑ | |||||| |
-| **Cooking** | ◐◐◐◐◐◐◐ | ●●●●●●● | ●●●●●●● | ●●●●●●● | ◑◑◑◑◑◑◑ | |||||| |
-| **Emergency Prep** | ◐◐◐◐◐◐◐ | ●●●●●●● | ●●●●●●● | ●●●●●●● | ◑◑◑◑◑◑◑ | |||||| |
-| **Citizenship Com** | || ◐◐◐◐◐◐◐ | ●●●●●●● | ●●●●●●● | ●●●●●●● | ◑◑◑◑◑◑◑ | |||||| |
-| **Citizenship Nat** | || ◐◐◐◐◐◐◐ | ●●●●●●● | ●●●●●●● | ●●●●●●● | ◑◑◑◑◑◑◑ | |||||| |
-| **Citizenship Soc** | |||||| ◐◐◐◐◐◐◐ | ●●●●●●● | ●●●●●●● | ●●●●●●● | ◑◑◑◑◑◑◑ |
-| **Board of Review** | |||||||||| ●●●●●●● |
-
-**Legend:**
-- ● Active work period
-- ◐ Planning/preparation phase  
-- ◑ Completion/review phase
-- | Not scheduled
 
 ## Critical Success Factors
 
