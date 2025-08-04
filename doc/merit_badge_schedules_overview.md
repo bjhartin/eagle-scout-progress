@@ -16,20 +16,20 @@ This document provides an overview of the two merit badge completion schedules c
 
 ### Priority System
 Both schedules prioritize work based on:
-1. **Time-sensitive requirements first**: Family Life 90-day tracking must start August 1st
+1. **Time-sensitive requirements first**: Family Life 90-day tracking must start August 4th
 2. **Longest badges first**: Citizenship in Community (21.5 hrs) → Emergency Preparedness (14 hrs) → etc.
 3. **Special requirements noted**: 5-day waiting periods and tracking requirements
 
 ## Schedule Differences
 
 ### September Schedule (Aggressive)
-- **Timeline**: 61 days (Aug 1 - Sep 30)
+- **Timeline**: 58 days (Aug 4 - Sep 30)
 - **Pace**: Intensive, uses ~85% of available time
-- **Completion**: All merit badge work done by September 30th (except Family Life tracking continues to Oct 30)
+- **Completion**: All merit badge work done by September 30th (except Family Life tracking continues to Nov 2)
 - **Best for**: Scouts who want to finish early and have extra time for Eagle Project
 
 ### October Schedule (Balanced)
-- **Timeline**: 92 days (Aug 1 - Oct 31)  
+- **Timeline**: 89 days (Aug 4 - Oct 31)  
 - **Pace**: Relaxed, ~1.5 hours average per day
 - **Distribution**: Work spread more evenly across three months
 - **Best for**: Scouts who prefer a sustainable pace with built-in buffer time
@@ -37,7 +37,7 @@ Both schedules prioritize work based on:
 ## Critical Requirements
 
 ### Must Start Immediately
-- **Family Life requirement 3**: 90-day family activity tracking (starts Aug 1, ends Oct 30)
+- **Family Life requirement 3**: 90-day family activity tracking (starts Aug 4, ends Nov 2)
 
 ### Time-Sensitive Items
 - **Citizenship in Nation req 5**: Send letter to government official, wait 5 days for response
@@ -51,7 +51,7 @@ Both schedules prioritize work based on:
 ## How to Use These Schedules
 
 1. **Choose your schedule** based on your preferred pace and other commitments
-2. **Start Family Life tracking on August 1st** - this cannot be delayed
+2. **Start Family Life tracking on August 4th** - this cannot be delayed
 3. **Contact merit badge counselors** early to schedule sessions
 4. **Track your progress** and adjust as needed
 5. **Use the notes sections** for important reminders about special requirements
